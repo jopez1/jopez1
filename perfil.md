@@ -14,12 +14,11 @@
 #
 ### Proyectos destacado:
 
-- [x] [ToolVerse](https://github.com/Sarapr27/clientToolVerse) Proyecto Final Henry
+- [x] [ToolVerse](https://clienttoolverse-production.up.railway.app/) Proyecto Final Henry
 - [x] [App Pokemon](https://github.com/jopez1/app-pokemon) Proyecto Individual Henry
-
-![footer](https://i.pinimg.com/originals/2f/f4/28/2ff428006f3ade5f10beac69372062ab.gif)
-
 #
 ### 📬 Si te interesa mi prefil no dudes en contactarme:
-- ✉️ jopez1@hotmail
+- ✉️ jopez1@hotmail.com
 - 📌 https://www.linkedin.com/in/zulimartovar/
+#
+![footer](https://i.pinimg.com/originals/2f/f4/28/2ff428006f3ade5f10beac69372062ab.gif)
