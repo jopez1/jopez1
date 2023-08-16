@@ -19,6 +19,6 @@
 #
 ### 📬 Si te interesa mi prefil no dudes en contactarme:
 - ✉️ jopez1@hotmail.com
-- 📌 https://www.linkedin.com/in/zulimartovar/
+- 📌 https://www.linkedin.com/in/antonio-flores-developer/
 #
 ![footer](https://i.pinimg.com/originals/2f/f4/28/2ff428006f3ade5f10beac69372062ab.gif)
